@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Maroua
+- 👀 I’m interested in all things Data and  Business intelligence
+- 🌱 I’m currently learning how to build ,implement, and automate a data pipeline
+- 💞️ 
+- 📫 How to reach me ...
